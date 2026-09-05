@@ -186,35 +186,62 @@ Employee Management System/
 │
 ├── README.md
 └── .gitignore
-```
-🖥️ Application Screenshots
-📊 Employee Dashboard
+
+# 🖥️ Application Screenshots
+
+## 📊 Employee Dashboard
+
+![Employee Dashboard](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/dashboard.png)
 
 The dashboard provides a centralized overview of employees, departments, workforce statistics, employee ratings, and organizational information.
 
-👥 Employee Management
+---
+
+## 👥 Employee Management
+
+![Employee Management](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/employee-management.png)
 
 The employee management interface allows users to view, search, and manage employee records.
 
-➕ Add New Employee
+---
+
+## ➕ Add New Employee
+
+![Add New Employee](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/add-employee.png)
 
 The employee registration interface allows administrators to add new employees and enter their organizational information.
 
-✏️ Edit Employee
+---
+
+## ✏️ Edit Employee
+
+![Edit Employee](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/edit-employee.png)
 
 Existing employee records can be updated through the employee editing interface.
 
-🏢 Department Management
+---
+
+## 🏢 Department Management
+
+![Department Management](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/departments.png)
 
 The department management section provides an organized view of departments and their associated employees.
 
-📈 Reports & Analytics
+---
+
+## 📈 Reports & Analytics
+
+![Reports](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/reports.png)
 
 The reports section provides organizational information and employee analytics.
 
-⚙️ Settings
+---
 
-The settings interface provides system configuration, company information, backend connection status, and database management options.
+## ⚙️ Settings
+
+![Settings](https://raw.githubusercontent.com/shaikismailuddin009/Employee-Management-System/main/screenshots/settings.png)
+
+The settings interface provides system configuration, company information, backend connection status, and database management options..
 ```
 ⚙️ Running the Project Locally
 1. Clone the Repository
